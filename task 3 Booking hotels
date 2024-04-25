@@ -1,0 +1,49 @@
+void main(){
+    Bookung hotels
+    print ('---------Welcome to Booking Hotels Services--------');
+    print ('Please sign in with your email and Password');
+    string password= stdin.readline sync()!;
+    if Password.length  is worng ;
+    print "try again";
+    else (password. length==4)
+    bool repeat= true;
+    do{ 
+        print('1.choice place please');
+        print('2.check in date please');
+        print('3.check out date please');
+        print('4.check number of adults please');
+        print('5.check number of children please');
+        print ('6.check number of rooms please')
+        print('7.chice number of hotel stars');
+        print('8.choice if you want rent a car please');
+        print('======  enter your choices please');
+        int choice = int parse(stdin.readlineSynec()!);
+        switch (choice) {
+            case 1:
+            print('reseve for()nights');
+            case 2:
+            print('reseve');
+            case 3:
+            print('next step');
+            case 4:
+            print('final step');
+            case 5:
+            print(' enter your creadt card bin');
+         { string password= stdin.readline sync()!;
+    if Password.length  is worng ;
+    print "try again";
+    else (password. length==4)
+    bool repeat= true
+         } ;
+         case 6:
+         print(' your booking is compleate');
+         print (check your email please);
+         print(' Thanks for using  our Booking Hotels Services')
+        }
+
+
+    
+    }
+
+    
+    }
